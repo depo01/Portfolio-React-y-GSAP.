@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Imagen de prueba: Dos horas menos al día">
+  <rect width="800" height="600" fill="#ffd21f"/>
+  <rect x="80" y="90" width="640" height="420" rx="14" fill="#0a0d24" opacity=".14"/>
+  <rect x="80" y="90" width="640" height="44" rx="14" fill="#0a0d24" opacity=".28"/>
+  <circle cx="108" cy="112" r="6" fill="#0a0d24"/><circle cx="130" cy="112" r="6" fill="#0a0d24"/><circle cx="152" cy="112" r="6" fill="#0a0d24"/>
+  <rect x="112" y="166" width="210" height="14" rx="7" fill="#0a0d24"/>
+  <rect x="112" y="196" width="150" height="10" rx="5" fill="#0a0d24" opacity=".6"/>
+  <rect x="112" y="248" width="170" height="110" rx="10" fill="#0a0d24" opacity=".3"/>
+  <rect x="306" y="248" width="170" height="110" rx="10" fill="#0a0d24" opacity=".3"/>
+  <rect x="500" y="248" width="188" height="110" rx="10" fill="#0a0d24" opacity=".3"/>
+  <polyline points="112,440 190,410 260,430 340,380 420,398 500,350 580,368 688,320" fill="none" stroke="#0a0d24" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="400" y="560" font-family="system-ui,sans-serif" font-size="22" font-weight="800" text-anchor="middle" fill="#0a0d24" letter-spacing="3">IMAGEN DE PRUEBA</text>
+</svg>
